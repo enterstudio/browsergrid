@@ -1,9 +1,9 @@
-Flask==0.9
+Flask==0.12.3
 Flask-SQLAlchemy==0.16
 Flask-WTF==0.8
-Jinja2==2.6
-SQLAlchemy==0.7.8
-WTForms==1.0.2
-Werkzeug==0.8.3
+Jinja2==2.11.3
+SQLAlchemy==1.2.18
+WTForms==3.0.0a1
+Werkzeug==0.15.3
 selenium==2.25.0
 wsgiref==0.1.2
